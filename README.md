@@ -83,19 +83,7 @@ The output images produced by DMDNet are available at
 If you find our work useful, please cite our paper:
 
 ```bibtex
-@inproceedings{ijcai2025p109,
-  title     = {Adaptive Language-Aware Image Reflection Removal Network},
-  author    = {Fang, Siyan and Wang, Yuntao and Zhang, Jinpu and Li, Ziwen and Wang, Yuehuan},
-  booktitle = {Proceedings of the Thirty-Fourth International Joint Conference on Artificial Intelligence, {IJCAI-25}},
-  publisher = {International Joint Conferences on Artificial Intelligence Organization},
-  editor    = {James Kwok},
-  pages     = {973--981},
-  year      = {2025},
-  month     = {8},
-  note      = {Main Track},
-  doi       = {10.24963/ijcai.2025/109},
-  url       = {https://doi.org/10.24963/ijcai.2025/109},
-}
+***
 ```
 # 🙏 Acknowledgements
 We thank [DSIT](https://github.com/mingcv/DSIT) and [MiDaS](https://github.com/isl-org/MiDaS) for their valuable work.
