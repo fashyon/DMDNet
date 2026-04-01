@@ -2,7 +2,7 @@
 
 ## Depth-Synergized Mamba Meets Memory Experts for All-Day Image Reflection Separation (AAAI 2026)
 
-> **Paper:** [Link to Paper](***)
+> **Paper:** [Link to Paper](https://ojs.aaai.org/index.php/AAAI/article/view/37386)
 > 
 > **arXiv Version (with Supplementary Material):** [arXiv](https://arxiv.org/abs/2601.00322)
 
@@ -83,8 +83,19 @@ The output images produced by DMDNet are available at
 If you find our work useful, please cite our paper:
 
 ```bibtex
-***
+@article{fang2026dmdnet,
+  title   = {Depth-Synergized Mamba Meets Memory Experts for All-Day Image Reflection Separation},
+  author  = {Fang, Siyan and Peng, Long and Wang, Yuntao and Wei, Ruonan and Wang, Yuehuan},
+  journal = {Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume  = {40},
+  number  = {5},
+  pages   = {3849--3857},
+  year    = {2026},
+  doi     = {10.1609/aaai.v40i5.37386},
+  url     = {https://ojs.aaai.org/index.php/AAAI/article/view/37386}
+}
 ```
+
 # 🙏 Acknowledgements
 We thank [DSIT](https://github.com/mingcv/DSIT) and [MiDaS](https://github.com/isl-org/MiDaS) for their valuable work.
 
